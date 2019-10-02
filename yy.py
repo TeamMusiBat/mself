@@ -1063,7 +1063,7 @@ def bot(op):
                                 zx = ""
                                 zxc = ""
                                 zx2 = []
-                                xpesan =  "「JEM-BOT PEKOK」\n• User : "
+                                xpesan =  "「Ꮥu꒝ᎥᎠꂅ ᏕգuᕱᎠ」\n• User : "
                                 ret_ = str(helpMessage)
                                 ry = str(ryan.displayName)
                                 pesan = ''
@@ -1084,7 +1084,7 @@ def bot(op):
                                 zx = ""
                                 zxc = ""
                                 zx2 = []
-                                xpesan =  "「JEM-BOT PEKOK」\n• User : "
+                                xpesan =  "「Ꮥu꒝ᎥᎠꂅ ᏕգuᕱᎠ」\n• User : "
                                 ret_ = str(helpMessage1)
                                 ry = str(ryan.displayName)
                                 pesan = ''
@@ -1105,7 +1105,7 @@ def bot(op):
                                 zx = ""
                                 zxc = ""
                                 zx2 = []
-                                xpesan =  "「JEM-BOT PEKOK」\n• User : "
+                                xpesan =  "「Ꮥu꒝ᎥᎠꂅ ᏕգuᕱᎠ」\n• User : "
                                 ret_ = str(helpMessage2)
                                 ry = str(ryan.displayName)
                                 pesan = ''
@@ -1126,7 +1126,7 @@ def bot(op):
                                 zx = ""
                                 zxc = ""
                                 zx2 = []
-                                xpesan =  "「JEM-BOT PEKOK」\n• User : "
+                                xpesan =  "「Ꮥu꒝ᎥᎠꂅ ᏕգuᕱᎠ」\n• User : "
                                 ret_ = str(helpMessage3)
                                 ry = str(ryan.displayName)
                                 pesan = ''

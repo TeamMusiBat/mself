@@ -2802,7 +2802,7 @@ def bot(op):
                              if msg.toType == 2:
                                 group = cl.getGroup(to)
                                 members = [mem.mid for mem in group.members]
-                                cl.sendMessage(msg.to, "Berhasil mengundang {} undangan Call Grup".format(str(wait["limit"])))
+                                cl.sendMessage(msg.to, "Successfully invited {} Times to Join Call".format(str(wait["limit"])))
                                 call.acquireGroupCallRoute(to)
                                 call.inviteIntoGroupCall(to, contactIds=members)
                                         
@@ -2814,7 +2814,7 @@ def bot(op):
                                 group = cl.getGroup(to)
                                 members = [mem.mid for mem in group.members]
                                 jumlah = int(strnum)
-                                cl.sendText(msg.to,"Undangan call grup {} sukses".format(str(strnum)))
+                                cl.sendText(msg.to,"Invited {} Time succes".format(str(strnum)))
                                 if jumlah <= 1000:
                                    for x in range(jumlah):
                                    	try:
